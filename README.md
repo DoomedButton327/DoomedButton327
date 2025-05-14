@@ -1,4 +1,4 @@
-<h2 align="left">Hi ðŸ‘‹! I'm DoomedButton327</h2>
+<h2 align="left">Hi 👋! I'm DoomedButton327/ghosty</h2>
 
 ###
 
