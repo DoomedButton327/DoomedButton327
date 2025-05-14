@@ -1,8 +1,8 @@
-<h2 align="left">Hi ðŸ‘‹! I'm Jakub</h2>
+<h2 align="left">Hi ðŸ‘‹! I'm DoomedButton327</h2>
 
 ###
 
-<p align="left">I'm Full Stack Web Developer from Czech Republic</p>
+<p align="left">I'm a website designer and tech enthusiast, love coding,pen-testing and learning, also a furry :3</p>
 
 More about me: [coming soon](placeholder)
 
